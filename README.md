@@ -9,7 +9,7 @@ Programming: Python, SQL, PySpark
 Big Data: Apache Spark, Hadoop, Kafka, Hive
 Cloud: AWS , GCP
 Tools: Airflow, Azkaban
-ETL Tool : Informatica.
+ETL Tool : Informatica
 
 <!---
 SandipJadhav7843/SandipJadhav7843 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
